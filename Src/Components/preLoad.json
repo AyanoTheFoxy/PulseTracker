@@ -1,0 +1,38 @@
+{
+    "project": {
+        "name":    "test",
+        "version": "0.0.2",
+        "author":  "Foxy"
+    },
+    "assets": {
+        "images": {
+            "soundEditor": [
+                "Assets/Images/SoundEditor/Save.png", 
+                "Assets/Images/SoundEditor/Play.png", 
+                "Assets/Images/SoundEditor/Pause.png", 
+                "Assets/Images/SoundEditor/Off.png", 
+                "Assets/Images/SoundEditor/On.png", 
+                "Assets/Images/SoundEditor/Left.png", 
+                "Assets/Images/SoundEditor/Right.png",
+                "Assets/Images/SoundEditor/Restart.png",
+                "Assets/Images/SoundEditor/SpeedUp.png",
+                "Assets/Images/SoundEditor/Trash.png",
+                "Assets/Images/SoundEditor/Undo.png",
+                "Assets/Images/SoundEditor/Redo.png",
+                "Assets/Images/SoundEditor/More.png"
+            ],
+            "soundCreator": [
+                
+            ],
+            "loadScreen": [
+                "Assets/Images/LoadScreen/Logo.png"
+            ]
+        },
+        "sounds": [
+            
+        ],
+        "videos": [
+            
+        ]
+    }
+}
